@@ -31,4 +31,4 @@
  - 1_7.Prod_version: Additional project improvements and production version.
 
 ### Installation
-Clone the repository: git clone https://github.com/timdvd/js_advanced_lectures_and_practise.git
+Clone the repository: git clone https://github.com/timdvd/js_practise_website.git
